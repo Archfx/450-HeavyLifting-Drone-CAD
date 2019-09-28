@@ -5,4 +5,4 @@
 <p align="center">
   <img  src="https://github.com/Archfx/450-HeavyLifting-Drone-CAD/blob/master/drone.gif">
 <p align="center">
-<em>Drone</em>
+<em>Solid works preview</em>
