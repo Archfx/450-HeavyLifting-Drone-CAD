@@ -8,7 +8,7 @@
 <em>Solid works preview</em>
   
   <p align="center">
-  <img  src="https://github.com/Archfx/450-HeavyLifting-Drone-CAD/blob/master/5.jpeg">
+  <img  src="https://github.com/Archfx/450-HeavyLifting-Drone-CAD/blob/master/5.jpeg" width =400>
 <p align="center">
 <em>In the Workshop</em>
   
