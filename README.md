@@ -8,11 +8,11 @@
 <em>Solid works preview</em>
   
   <p align="center">
-  <img  src="https://github.com/Archfx/450-HeavyLifting-Drone-CAD/blob/master/5.jpeg" width =400>
+  <img  src="https://github.com/Archfx/450-HeavyLifting-Drone-CAD/blob/master/5.jpeg" width =500>
 <p align="center">
 <em>In the Workshop</em>
   
   <p align="center">
-  <img  src="https://github.com/Archfx/450-HeavyLifting-Drone-CAD/blob/master/3.jpg">
+  <img  src="https://github.com/Archfx/450-HeavyLifting-Drone-CAD/blob/master/3.jpg" width =500>
 <p align="center">
 <em>RoboCat♥</em>
