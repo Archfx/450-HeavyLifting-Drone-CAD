@@ -3,7 +3,7 @@
 ## Maximum thrust up to 8Kg with a foot print of a 450mm size
 
 <p align="center">
-  <img  src="https://github.com/Archfx/450-HeavyLifting-Drone-CAD/blob/master/drone.gif">
+  <img  src="https://github.com/Archfx/450-HeavyLifting-Drone-CAD/blob/master/drone.gif" width =500>
 <p align="center">
 <em>Solid works preview</em>
   
